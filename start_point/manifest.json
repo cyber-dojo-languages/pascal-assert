@@ -1,0 +1,15 @@
+{
+  "display_name": "Pascal (FreePascal), assert",
+
+  "visible_filenames": [
+     "hiker.tests.pas",
+     "hiker.pas",
+     "cyber-dojo.sh"
+  ],
+
+  "image_name": "cyberdojofoundation/freepascal_assert",
+
+  "filename_extension": [ ".pas" ],
+
+  "runner_choice": "stateless"
+}
